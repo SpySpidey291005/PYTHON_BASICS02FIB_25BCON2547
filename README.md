@@ -21,40 +21,10 @@ Each number is calculated by adding the two preceding numbers.
 * Uses basic Python programming concepts.
 * Easy to run and understand.
 
-## 🛠️ Installation
-
-1. Clone the repository:
-
-```bash
-git clone <your-repository-url>
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd <repository-name>
-```
-
-3. Run the Python program:
-
-```bash
-python fibonacci.py
-```
-
 ## 📋 Requirements
 
 * **Python 3.x**
 * No external Python libraries are required.
-
-## ▶️ Usage
-
-Run the program using:
-
-```bash
-python fibonacci.py
-```
-
-Enter the required number when prompted, if the program is configured to accept user input.
 
 ## 💡 Example
 
@@ -76,8 +46,4 @@ This is because the Fibonacci sequence is:
 0, 1, 1, 2, 3, 5
 ```
 
-## 📄 License
 
-This project is licensed under the **MIT License**.
-
-You may use, modify, and distribute the code in accordance with the terms of the license.
